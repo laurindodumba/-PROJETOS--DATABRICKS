@@ -9,6 +9,53 @@ O Azure Databricks é uma plataforma unificada de open analytics para criar, imp
 
 🎯1 - Extração dos dados através de uma API Publica e aplicar o devido tratamento dos dados.
 
+
+
+Iniciei com as extrações das bases de dados e renomei as colunas para cada dataframes que por agora estão de forma separadas e a ideia futura e unir após o tratamento.
+
+
+🎲 - circuits.csv
+
+
+🎲 - constructor_results.csv
+
+
+🎲 - constructor_standings.csv
+
+
+🎲 - construtors.csv
+
+
+🎲 - driver_standings.csv
+
+
+🎲 - drivers.csv
+
+
+🎲 - lap_times.csv
+
+
+🎲 - pit_stops.csv
+
+
+🎲 - quanlifying.csv
+
+
+🎲 - races.csv
+
+
+🎲 - results.csv
+
+
+🎲 - seasons.csv
+
+
+🎲 - sprint_results.csv
+
+
+🎲 -status.csv
+
+
 🎯2 - Desenvolver análise exploratória e descritiva dos dados.
  
 🎯3 - Criar Visualização dos dados através da integração com o Power BI.
