@@ -55,6 +55,11 @@ Iniciei com as extrações das bases de dados e renomei as colunas para cada dat
 
 🎲 -status.csv
 
+- Juntei  todos os Dataframes para criar que nas próximas etapas de análise exploratória esteja mais facilitado manipular toda base de dados.
+
+![image](https://github.com/laurindodumba/-PROJETOS--DATABRICKS/assets/38964642/c5eb34e6-459c-47b4-a418-95f6a18bbe79)
+
+
 
 🎯2 - Desenvolver análise exploratória e descritiva dos dados.
  
